@@ -20,7 +20,12 @@ img {
 header h1 {
   font-family: 'Muli', sans-serif;
   text-align: center;
-  transition: ease-in 0.3s;
+}
+
+header p {
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+  font-size: 17px;
 }
 
 /* Main */
